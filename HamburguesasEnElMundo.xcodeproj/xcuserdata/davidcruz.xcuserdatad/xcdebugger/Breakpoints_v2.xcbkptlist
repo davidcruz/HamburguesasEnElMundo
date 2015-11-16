@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HamburguesasEnElMundo/ViewController.swift"
+            timestampString = "469343488.079768"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HamburguesasEnElMundo.ViewController.lPais.setter : HamburguesasEnElMundo.ColeccionDePaises"
+                  moduleName = "HamburguesasEnElMundo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidcruz/Documents/Desarrollo/Apple/Ejemplos/HamburguesasEnElMundo/HamburguesasEnElMundo/ViewController.swift"
+                  timestampString = "469343489.089106"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HamburguesasEnElMundo.ViewController.lPais.materializeForSet : HamburguesasEnElMundo.ColeccionDePaises"
+                  moduleName = "HamburguesasEnElMundo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidcruz/Documents/Desarrollo/Apple/Ejemplos/HamburguesasEnElMundo/HamburguesasEnElMundo/ViewController.swift"
+                  timestampString = "469343489.089206"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HamburguesasEnElMundo.ViewController.init (HamburguesasEnElMundo.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; HamburguesasEnElMundo.ViewController"
+                  moduleName = "HamburguesasEnElMundo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidcruz/Documents/Desarrollo/Apple/Ejemplos/HamburguesasEnElMundo/HamburguesasEnElMundo/ViewController.swift"
+                  timestampString = "469343489.089294"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "197">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HamburguesasEnElMundo.ViewController.init (HamburguesasEnElMundo.ViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;HamburguesasEnElMundo.ViewController&gt;"
+                  moduleName = "HamburguesasEnElMundo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidcruz/Documents/Desarrollo/Apple/Ejemplos/HamburguesasEnElMundo/HamburguesasEnElMundo/ViewController.swift"
+                  timestampString = "469343489.089379"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "126">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
